@@ -1,1 +1,2 @@
 it is used to check the branch status of my code
+manages the db and code also
