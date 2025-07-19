@@ -1,2 +1,4 @@
 Learing Spring boot and System designing...
 process the datagit 
+
+create an avatar for user
